@@ -1,0 +1,5 @@
+------HƯỚNG DẪN SỬ DỤNG WEBSITE NHÀ HÀNG ------------
+-Cần tải:	+node js (trên website)
+		+nodemon (bằng câu lệnh trên consolde 'npm install nodemon')
+-Chạy trên console 'npm start'
+-Truy cập đường link http://localhost:5500/ để sử dụng trang web
